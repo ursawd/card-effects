@@ -1,8 +1,8 @@
 .App {
   text-align: center;
   background-color: green;
-  width: 500px;
-  height: 400px;
+  width: 400px;
+  height: 500px;
   margin: 10px auto;
   color: white;
 }
@@ -10,4 +10,10 @@ h1,
 h3 {
   margin: 0;
   padding: 0;
+}
+img {
+  margin-top: 50px;
+}
+button {
+  margin-top: 10px;
 }
